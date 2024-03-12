@@ -1,0 +1,7 @@
+face-recognition==1.3.0
+opencv-python
+SpeechRecognition
+pygame
+nltk
+gtts
+pyaudio
